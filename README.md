@@ -1,7 +1,7 @@
 # LearnML
 
 
-//## Dependency
+<!-- ## Dependency -->
 ## setup
 - prepare docker container
 ```
@@ -11,6 +11,9 @@ $docker create --name learnML --platform linux/x86_64 jupyter/scipy-notebook:lat
 
 - start docker container
 
-//## Usage
-//## Authors
-//## References
+
+<!--
+## Usage
+## Authors
+## References
+-->
